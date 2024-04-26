@@ -13,7 +13,7 @@ import re
 st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR",
                    layout="wide",
                    initial_sidebar_state="expanded",
-                   menu_items={'About': """# This OCR app is created by *Vijai Gowtham*!"""})
+                   menu_items={'About': """OCR created for BizCard Extraction"""})
 st.markdown("<h1 style='text-align: center; color: white;'>BizCardX: Extracting Business Card Data with OCR</h1>", unsafe_allow_html=True)
 
 #=========hide the streamlit main and footer
